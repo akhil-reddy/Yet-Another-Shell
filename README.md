@@ -1,3 +1,3 @@
 # Yet-Another-Shell
 
-A Simple Shell in Linux.
+A simple CLI / shell in Linux.
